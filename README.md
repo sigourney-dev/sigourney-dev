@@ -1,7 +1,7 @@
 ### WELCOME TO MY PAGE 👋👋👋
 My name is Vu Nguyen. I am a FrontEnd Developer. I am interested in the following topics: .<br>
 ## 📫 How to reach me: 
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/)
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sigourney-dev/)
 
 ![Vu's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sigourney-dev&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
