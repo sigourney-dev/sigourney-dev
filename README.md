@@ -1,16 +1,14 @@
-### Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Vu Nguyen. I am a FrontEnd Developer. I am interested in the following topics: .<br>
+## 📫 How to reach me: 
 
-<!--
-**sigourney-dev/sigourney-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/uvipen/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Vu's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sigourney-dev&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+<a href="https://github.com/sigourney-dev/">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=sigourney-dev&repo=QuickDraw&theme=radical" />
+</a>    
