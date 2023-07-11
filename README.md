@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Vu Nguyen. I am a FrontEnd Developer. I am interested in the following topics: .<br>
+My name is Vu Nguyen. I am a FrontEnd Developer. I am interested in the following topics: Flutter, React-Native.<br>
 ## 📫 How to reach me: 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sigourney-dev/)
 
