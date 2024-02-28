@@ -11,5 +11,5 @@ My name is Vu Nguyen. I am a FrontEnd Developer. I am interested in the followin
 </a>
 <a href="https://github.com/sigourney-dev/bccp/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sigourney-dev&repo=hear-me-ts&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sigourney-dev&repo=bccp&theme=radical" />
 </a>
