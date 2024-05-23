@@ -10,15 +10,5 @@ My name is Vu Nguyen. I am a Mobile Developer. I am interested in the following 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sigourney-dev&repo=hear-me-ts&theme=radical" />
 </a>
 
-<a href="https://github.com/sigourney-dev/bccp/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sigourney-dev&repo=bccp&theme=radical" />
-</a>
-
-<a href="https://github.com/sigourney-dev/cms/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sigourney-dev&repo=cms&theme=radical" />
-</a>
-
 
 
